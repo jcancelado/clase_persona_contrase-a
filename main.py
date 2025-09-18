@@ -1,3 +1,3 @@
-import persona from persona
-import contraseña from contraseña
+import Persona from persona
+import Contraseña from contraseña
 def main():
